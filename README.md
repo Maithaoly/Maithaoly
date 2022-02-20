@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thao Ly
-- 📫 How to reach me maithaoly51201@gmail.com
+- 📫 How to reach me lythaomai51201@gmail.com
 
 <!---
 Maithaoly/Maithaoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
